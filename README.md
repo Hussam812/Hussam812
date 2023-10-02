@@ -13,6 +13,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hossamhosni12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hussam" height="30" width="40" /></a>
+
+
+ <a href="https://www.upwork.com/freelancers/~01ec684744335d7eef" target="blank"><img align="center" src="https://seeklogo.com/images/U/upwork-logo-66B619A06A-seeklogo.com.png" alt="Hussam" height="30" width="40" /></a>
+
 <!-- <a href="https://instagram.com/simplified_learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/simplified learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /></a> -->
 </p>
