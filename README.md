@@ -1,4 +1,4 @@
-![logo](https://github.com/Hussam812/Hussam812/blob/main/great.png)
+![logo]()
 <h1 align="center">Hi 👋, I'm Hussam </h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
 
